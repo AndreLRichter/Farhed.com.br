@@ -1,60 +1,53 @@
-# Hospedando Minecraft com o GitHub
+# Plano Vitalício Farhed.com.br
 
-#### Instalação
+Este é o plano **vitalício** oferecido pelo serviço de hospedagem da **Farhed.com.br**, destinado a usuários que buscam alta performance para seus projetos de Minecraft ou outras aplicações. A seguir, você encontrará todas as especificações e informações sobre o plano, além de saber como aproveitá-lo ao máximo.
 
-1. Crie uma conta no [GitHub](https://github.com/signup).
-- Caso você já tenha uma conta, avance para o próximo passo.
+## Especificações do Plano
 
-2. Acesse meu [Repositório](https://github.com/tothpng/minecraft).
-- Clique em "Fork".
-- Em seguida, crie o nome do repositório.
+- **RAM**: 10GB  
+  Com 10GB de memória RAM dedicada, você garante que seu servidor ou aplicação tenha desempenho robusto, mesmo com múltiplos jogadores ou processos simultâneos. Ideal para servidores de Minecraft de médio a grande porte.
 
-3. Crie um novo [Codespace](https://github.com/codespaces/new).
-- Em seguida, clique em `Repository` e selecione o fork.
-- Depois, clique em `Machine type` e selecione a última opção.
+- **ROM**: 30GB  
+  Armazenamento de 30GB para guardar todos os seus arquivos, dados, mods, plugins e muito mais. Um espaço ideal para manter o servidor otimizado e os dados organizados.
 
-4. Crie uma conta no [Ngrok](https://dashboard.ngrok.com/signup).
-- Clique em `Setup & Installation` em Agents selecione Linux.
+- **Plugins e Mods**  
+  O plano oferece total compatibilidade com a instalação e uso de plugins e mods, permitindo personalizar seu servidor ou aplicação conforme suas necessidades. Se você estiver criando um servidor de Minecraft, poderá adicionar todos os mods e plugins desejados para aprimorar a experiência dos jogadores.
 
-5. Abra seu Codespace. 
-- Clique em `Terminal` ou `Ctrl + J`.
-- Em Apt copie o seguinte comando de instalação do ngrok e pressione enter.
-- Em seguida copie o seguinte comando para adicionar seu authtoken e pressione enter.
-- Passe o mouse em cima do arquivo ngrok.yml e abra ele `Ctrl + Clique`.
-- Logo abaixo de `authtoken`, abra uma linha e cole isso `region: sa`.
-- Agora aperte `Ctrl + S` para salvar o arquivo, logo em seguida feche o arquivo e volte para o Terminal.
-- Execute o comando `ngrok tcp 25565`.
-- Copie o ip fornecido em `Forwarding`.
-- Pressione as teclas `Ctrl + Shift + '` para abrir um novo bash.
-- Agora digite o seguinte comando; `./start.sh`.
+## Benefícios do Plano Vitalício
 
-# Dúvidas
+1. **Acesso Vitalício**  
+   Com o plano vitalício, você não precisa se preocupar com renovação de contrato, pagamentos mensais ou anuais. Assim, pode focar totalmente no seu projeto sem interrupções.
 
-#### Como evitar o banimento no GitHub?
+2. **Desempenho Garantido**  
+   A alocação de recursos dedicada (10GB de RAM e 30GB de armazenamento) garante que seu servidor ou aplicação tenha desempenho de alto nível, sem gargalos, mesmo em horários de pico.
 
-- Ativando a [Autenticação de dois fatores](https://github.com/settings/two_factor_authentication/setup/intro).
+3. **Suporte e Atualizações**  
+   O suporte técnico especializado da Farhed.com.br está disponível para ajudar com qualquer dúvida ou questão técnica. Além disso, você terá acesso às atualizações e melhorias contínuas do serviço.
 
-#### Qual launcher de Minecraft você recomenda?
+4. **Flexibilidade para Personalização**  
+   Este plano oferece a flexibilidade para adicionar qualquer mod ou plugin necessário ao seu servidor. Seja para Minecraft ou outras plataformas, a Farhed.com.br permite que você configure tudo da maneira que preferir.
 
-- [Sklauncher](https://skmedix.pl/downloads)
+## Como Comprar na Farhed.com.br
 
-#### Posso jogar em Multiplayer?
+Adquirir o plano vitalício na **Farhed.com.br** é simples. Basta seguir os passos abaixo:
 
-- Sim, o servidor suporta jogabilidade multiplayer.
-- O uso do Ngrok facilita a conexão dos jogadores ao servidor.
-- Mantendo uma latência máxima de 150ms.
+1. **Visite o site oficial**: Acesse [Farhed.com.br](https://farhed.com.br) e escolha o plano vitalício.
+2. **Escolha o pacote desejado**: Selecione o pacote que mais se adequa às suas necessidades e adicione ao carrinho.
+3. **Cadastro e Pagamento**: Complete o cadastro no site e finalize a compra. O pagamento pode ser feito de forma segura através dos métodos disponíveis na plataforma.
+4. **Acesso imediato**: Após a confirmação do pagamento, você terá acesso imediato ao seu plano vitalício.
 
-#### Quais versões são suportadas?
+Se você tiver dúvidas ou precisar de mais informações, entre em contato com nossa equipe de suporte.
 
-- Vanilla, Forge, Fabric e Bukkit/Spigot
+## Por que escolher a Farhed.com.br?
 
-#### Onde posso baixar as versões informadas?
+- **Infraestrutura de Qualidade**: Utilizamos servidores de alta performance e rede de baixa latência para garantir que seu serviço esteja sempre no ar e funcionando de forma otimizada.
+- **Atendimento Especializado**: Nossa equipe de suporte está sempre pronta para oferecer soluções rápidas e eficientes para suas necessidades.
+- **Planos Flexíveis**: Além do plano vitalício, oferecemos outros planos conforme a necessidade do seu projeto.
 
-- [Vanilla](https://mcversions.net/)
-- [Forge](https://mohistmc.com/downloads)
-- [Fabric](https://fabricmc.net/use/server/)
-- [Bukkit/Spigot](https://papermc.io/downloads/paper)
+### Fale Conosco
 
-## Autores
+Se você precisar de ajuda ou tiver alguma dúvida, estamos à disposição para atendê-lo. Acesse nosso [suporte](https://farhed.com.br/suporte) para mais informações.
 
-- [Toth](https://github.com/tothpng)
+---
+
+Farhed.com.br - A hospedagem que você precisa, com o desempenho que seu projeto merece.
